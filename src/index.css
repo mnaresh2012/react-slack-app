@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif, "Segoe UI Symbol";
+  margin: 0;
+}
+.active {
+  color: coral !important;
+  font-weight: 700;
+}
