@@ -1,6 +1,9 @@
 # React-Slack-Application.
 Chat Application with ReactJS, Redux and ChatKit api.
 
+### Chat Application -
+![alt text](react-chat-app.gif)
+
 ### Dependencies & DevDependencies -
 ```
 Express, react, Mocha, Chai, Enzyme, redux, redux-saga
