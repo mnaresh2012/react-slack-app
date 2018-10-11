@@ -1,4 +1,4 @@
-# React-Chat-Kit
+# React-Slack-Application.
 Chat Application with ReactJS, Redux and ChatKit api.
 
 ### Dependencies & DevDependencies -
